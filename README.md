@@ -1,17 +1,10 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3500&pause=1200&color=D4AF37¢er=true&vCenter=true&width=600&lines=ADNAN;Security+Engineering+%26+Applied+Development;Offensive+Security+%C2%B7+Digital+Forensics+%C2%B7+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=180§ion=header&text=ADNAN&fontSize=60&fontColor=D4AF37&fontAlignY=40&animation=fadeIn&desc=Offensive%20Security%20%C2%B7%20Digital%20Forensics%20%C2%B7%20Systems&descAlignY=62&descColor=E8E8E8" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Penetration+Testing+%26+Ethical+Hacking;Digital+Forensics+%26+Malware+Analysis;Secure+Systems+Engineering&font=Fira+Code&size=22&pause=1500&color=D4AF37&background=0D0D0D00¢er=true&vCenter=true&width=600&height=50" alt="Typing SVG"/>
 
-<svg width="480" height="40" viewBox="0 0 480 40" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 20 Q60 5, 120 20 T240 20 T360 20 T470 20" 
-        stroke="#D4AF37" stroke-width="1.5" fill="none" opacity="0.85"/>
-  <circle cx="10" cy="20" r="2.5" fill="#D4AF37"/>
-  <circle cx="470" cy="20" r="2.5" fill="#D4AF37"/>
-  <path d="M235 12 Q240 20, 245 12" stroke="#D4AF37" stroke-width="1" fill="none" opacity="0.6"/>
-</svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 </div>
 
@@ -19,44 +12,58 @@
 
 ## Profile
 
-I run **Webusite**, an independent development studio delivering Flutter mobile applications, web platforms, and security-focused engineering work for clients across Kenya and internationally. In parallel, I'm completing a specialization in Cybersecurity and Ethical Hacking at Kenya Methodist University — penetration testing, digital forensics, malware analysis, and secure systems design.
+I specialize in **offensive security, digital forensics, and secure systems engineering** — penetration testing, malware analysis, incident response, and applied cryptography. My work sits at the intersection of breaking systems to understand them and building the defenses that hold against real adversaries.
 
-My work sits at the intersection of **building** and **breaking**: production-grade application development on one side, offensive security and forensic investigation on the other.
-
-- **Studio:** [webusite.sbs](https://webusite.sbs) · `hi@webusite.sbs`
-- **Focus:** Flutter/Dart mobile engineering · Penetration testing · Digital forensics · Web application security
-- **Based in:** Kenya
+Currently advancing through a Cybersecurity and Ethical Hacking specialization, with hands-on lab work across network exploitation, systems forensics, and reverse engineering.
 
 <br/>
 
-<div align="center">
-<svg width="480" height="24" viewBox="0 0 480 24" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 12 Q120 2, 240 12 T470 12" stroke="#D4AF37" stroke-width="1" fill="none" opacity="0.5"/>
-</svg>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 ## Technical Domains
 
-**Offensive Security & Forensics**
-`Penetration Testing` `Digital Forensics` `Malware Analysis` `Reverse Engineering` `Cryptography & Steganography` `Network Security` `Incident Response`
+<div align="center">
 
-**Development**
-`Flutter / Dart` `PHP` `ASP.NET Core` `HTML / CSS / JS`
+**Offensive Security**
 
-**Environment**
-`Kali Linux` `Metasploit` `Burp Suite` `Nmap` `Volatility` `Autopsy` `Sleuthkit`
+`Penetration Testing` `Ethical Hacking` `Social Engineering` `Reverse Engineering`
+
+**Forensics & Analysis**
+
+`Digital Forensics` `Malware Analysis` `Cryptography & Steganography` `Incident Response`
+
+**Systems & Networks**
+
+`Network Security` `IDS / IPS` `Systems Architecture` `DevSecOps`
+
+</div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+
+## Toolkit
+
 <div align="center">
-<svg width="480" height="24" viewBox="0 0 480 24" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 12 Q120 22, 240 12 T470 12" stroke="#D4AF37" stroke-width="1" fill="none" opacity="0.5"/>
-</svg>
+<img src="https://skillicons.dev/icons?i=linux,bash,py,cpp&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=D4AF37" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Volatility-2E2E2E?style=for-the-badge&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Autopsy-2E2E2E?style=for-the-badge&logoColor=D4AF37" />
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
 ## Coursework in Practice
 
-Applied lab and elective work from the BCEH program, organized by domain:
+Applied lab and elective work, organized by domain:
 
 | Area | Units |
 |---|---|
@@ -67,23 +74,7 @@ Applied lab and elective work from the BCEH program, organized by domain:
 <br/>
 
 <div align="center">
-<svg width="480" height="24" viewBox="0 0 480 24" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 12 Q120 2, 240 12 T470 12" stroke="#D4AF37" stroke-width="1" fill="none" opacity="0.5"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D0D0D&height=100§ion=footer" width="100%"/>
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hadnan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=E8E8E8&hide_title=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadnan&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=E8E8E8&langs_count=6" alt="Top Languages" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**[webusite.sbs](https://webusite.sbs)**  ·  **hi@webusite.sbs**
-
-</div>
-
+DISCLAIMER: All information contained in this e-mail message is strictly confidential and may be legally privileged. Unauthorised disclosure, copying, dissemination and reliance on the contents of all or part of this email by unintended party or entity is prohibited and may be unlawful. If you are not the intended recipient please notify the sender and delete this email. Smartcode Technologies has taken reasonable precaution to scan, sanitiser and secure its electronic messages from viruses. However, Smartcode Technologies will not be liable for the loss or damage in the contents of this message which may arise as a result of the e-mail transmission. The sender of this email is expressly required not make any defamatory statements. Any such communication is contrary to company policy and outside the scope of the employment of the individual concerned. Smartcode Technologies will not accept any liability in respect of such communication, and the employee responsible will be personally liable for any damages or other liability arising. Unless specifically stated, any views expressed may not necessarily be that of Smartcode Technologies but that of the sender.
